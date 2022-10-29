@@ -1,0 +1,16 @@
+<resources>
+
+
+    <string name="app_name">LogIn SignUp</string>
+    <string name="description">Know yourself Info</string>
+    <string name="app_title">Date me.</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log in</string>
+    <string name="email_or_phone_number">Email or phone Number</string>
+    <string name="passport">Passport</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="name_or_pseudu">Name or pseudu</string>
+    <string name="back">back</string>
+
+
+</resources>
