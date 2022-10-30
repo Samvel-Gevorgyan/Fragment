@@ -51,8 +51,8 @@ class FragmentWelcome : Fragment() {
         userName = arguments?.getString(Constance.KEY_USER_NAME)
         userPassword = arguments?.getString(Constance.KEY_USER_PASSWORD)
 
-        binding.getT.text=userName.toString()
-        binding.getP.text=userPassword.toString()
+        binding.getUserName.text=userName.toString()
+        binding.getUserName.text=userPassword.toString()
 
     }
 
